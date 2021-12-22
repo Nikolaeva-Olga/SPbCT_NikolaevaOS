@@ -1,0 +1,5 @@
+C:\Users\Chuchik\source\repos\ExPr\Debug\ExPr.vcxproj.AssemblyReference.cache
+C:\Users\Chuchik\source\repos\ExPr\Debug\ExPr.MyForm.resources
+C:\Users\Chuchik\source\repos\ExPr\Debug\ExPr.vcxproj.GenerateResource.cache
+C:\Users\Chuchik\source\repos\ExPr\Debug\ExPr.exe
+C:\Users\Chuchik\source\repos\ExPr\Debug\ExPr.MyForm1.resources

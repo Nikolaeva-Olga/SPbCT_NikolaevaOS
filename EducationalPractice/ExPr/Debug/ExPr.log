@@ -1,0 +1,18 @@
+﻿  MyForm.cpp
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(223,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(241,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(301,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(319,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(315,9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chuchik\source\repos\ExPr\MyForm.h(234,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Chuchik\source\repos\ExPr\MyForm.h(230,9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm1.cpp
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(223,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(241,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(301,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(319,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Chuchik\source\repos\ExPr\MyForm1.h(315,9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ExPr.vcxproj -> C:\Users\Chuchik\source\repos\ExPr\Debug\ExPr.exe
+  Скопировано файлов: 0.
